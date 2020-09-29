@@ -4,6 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/LeandroSombra/aula1.git",
   "license": "MIT",
+  "scripts": {
+   "test": "jest" 
+  },
   "devDependencies": {
     "@types/jest": "^26.0.14",
     "@types/node": "^14.11.2",
